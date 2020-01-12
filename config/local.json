@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 3000,
+    "cookie": {
+      "secret": "1234567890"
+    }
+  },
+  "mongo": {
+    "url": "mongodb://localhost:3001/0001px"
+  }
+}
